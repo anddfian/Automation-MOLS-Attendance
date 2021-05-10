@@ -3,8 +3,8 @@ from time import sleep
 
 database = {
     "Account": {
-        "NIM": 2009106002,
-        "Password": 897938
+        "NIM": "",
+        "Password": ""
     },
     "URL": {
         "MOLS": "https://mols.unmul.ac.id/mahasiswa/login",
